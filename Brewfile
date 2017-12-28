@@ -42,6 +42,10 @@ cask "istat-menus"
 cask "microsoft-office"
 cask "private-internet-access"
 cask "nvidia-cuda"
+cask "launchbar"
+cask "transmit"
+cask "transmission"
+# cask "qt-creator"
 # cask "bettertouchtool"
 
 mas "1Password", id: 443987910
