@@ -45,6 +45,7 @@ cask "nvidia-cuda"
 cask "launchbar"
 cask "transmit"
 cask "transmission"
+cask "anaconda"
 # cask "qt-creator"
 # cask "bettertouchtool"
 
