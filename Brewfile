@@ -21,7 +21,7 @@ brew "heroku/brew/heroku"
 
 
 # quicklook plugins
-cask "betterzipql"
+# cask "betterzipql"
 cask "qlcolorcode"
 cask "qlimagesize"
 cask "qlmarkdown"
