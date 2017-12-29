@@ -28,3 +28,6 @@ brew bundle
 npm config set python python2.7
 npm install --global gulp-cli
 
+git config --global user.email "talley.lambert@gmail.com"
+git config --global user.name "Talley Lambert"
+
