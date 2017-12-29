@@ -22,3 +22,9 @@ cd ~/Desktop
 git clone https://github.com/tlambert03/brew.git
 cd brew
 brew bundle
+
+
+## install node stuff
+npm config set python python2.7
+npm install --global gulp-cli
+
