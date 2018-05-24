@@ -33,9 +33,11 @@ cask "quicklook-json"
 cask "quicklookase"
 cask "webpquicklook"
 
+cask "miniconda"
 cask "dropbox"
 cask "java"
 cask "postgres"
+cask "psequel"
 cask "google-chrome"
 cask "sublime-text"
 cask "fiji"
@@ -46,6 +48,7 @@ cask "nvidia-cuda"
 cask "launchbar"
 cask "transmit"
 cask "transmission"
+cask "fork"
 # cask "anaconda"
 # cask "qt-creator"
 # cask "bettertouchtool"
@@ -58,3 +61,4 @@ mas "Sip", id: 507257563
 mas "Slack", id: 803453959
 #mas "Stockfish", id: 801463932
 mas "The Unarchiver", id: 425424353
+mas "Spark", id: 1176895641
