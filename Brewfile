@@ -1,6 +1,5 @@
 cask_args appdir: "/Applications"
 tap "heroku/brew"
-tap "homebrew/completions"
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "caskroom/cask"
